@@ -1,2 +1,2 @@
 # discussion1
-name : Hae In Lee (Caroline)
+<h1>name : Hae In Lee (Caroline) </h1>
